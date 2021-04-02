@@ -1,0 +1,2 @@
+pyinstaller -F -w D:\project_file\GUI\CurvedSurfaceLithography_v1_3\Shining_CSL_pyqt.py
+pyuic5 -o Shining_CSL.py Shining_CSL.ui
